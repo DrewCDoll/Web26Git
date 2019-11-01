@@ -1,5 +1,5 @@
-# Web26Git
-this is a test repo for web26
+# Webpt13
+this is a test repo for webpt13
 
 ## This is a readme file
 
